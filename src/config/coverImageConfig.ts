@@ -25,7 +25,7 @@ export const coverImageConfig: CoverImageConfig = {
 	enableInPostOverlay: false,
 
 	// 是否显示转圈圈加载动画，会替代掉LQIP
-	showLoading: false,
+	showLoading: true,
 
 	randomCoverImage: {
 		// 随机封面图功能开关
