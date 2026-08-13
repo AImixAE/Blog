@@ -2,7 +2,7 @@
 title: '项目推荐: 123pan'
 published: 2026-08-13
 description: '一个使用极佳的123pan客户端哦!'
-image: 'api'
+image: ''
 tags: ['123pan']
 category: '项目推荐'
 draft: false
