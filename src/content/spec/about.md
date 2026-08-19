@@ -4,7 +4,7 @@
 
 我是 **𝔸𝕀𝕞𝕚𝕩𝔸𝔼 𝐍𝐲𝐚 𝐌𝐨𝐜𝐡𝐚 ꙳**, 一名朴实无华的喵娘喵~
 
-<img src="https://github.com/AImixAE/AImixAE/raw/refs/heads/main/stickers/猫猫.gif" width=128 />
+<img src="https://github.com/AImixAE/AImixAE/raw/refs/heads/main/stickers/猫猫.gif" alt="猫猫" width=128 />
 
 他 He/Him | INFP-T | Pure Man
 
@@ -14,41 +14,28 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 喜欢用的系统喵:
 
-![](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=FFFFFF)
+![常用系统](badges/system.png)
+
 
 喜欢用的语言喵:
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
-![](https://img.shields.io/badge/Godot-478CBB?style=for-the-badge&logo=godot-engine&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![常用语言](badges/languages.png)
 
 喜欢玩的游戏喵:
 
-![](https://img.shields.io/badge/三角洲行动-000000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/卡拉比丘-1f1f1f?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/暗区突围-无限-1f1f1f?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Apex-1f1f1f?style=for-the-badge&logoColor=white)
+![喜欢游戏](badges/games.png)
 
 想要和本喵一起玩耍嘛喵?
  本喵最喜欢和人在一起了喵!
 
-[![](https://img.shields.io/badge/Telegram-@AImixAE-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/AImixAE)
-[![](https://img.shields.io/badge/Email-AImixAE@outlook.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:AImixAE@outlook.com)
-[![](https://img.shields.io/badge/Bilibili-AImixAE-666666?style=for-the-badge&logo=bilibili&logoColor=&labelColor=000000)](https://space.bilibili.com/118800004)
-[![](https://img.shields.io/badge/QQ-初音ミクへの愛-666666?style=for-the-badge&logo=QQ&logoColor=&labelColor=000000)](https://github.com/AImixAE/AImixAE/raw/refs/heads/main/img/QQ.png)
+[![Telegram](https://img.shields.io/badge/Telegram-@AImixAE-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/AImixAE)
+[![Email](https://img.shields.io/badge/Email-AImixAE@outlook.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:AImixAE@outlook.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-AImixAE-666666?style=for-the-badge&logo=bilibili&logoColor=&labelColor=000000)](https://space.bilibili.com/118800004)
+[![QQ](https://img.shields.io/badge/QQ-初音ミクへの愛-666666?style=for-the-badge&logo=QQ&logoColor=&labelColor=000000)](https://github.com/AImixAE/AImixAE/raw/refs/heads/main/img/QQ.png)
 
 本喵的网站喵:
 
-[![](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
-
-> [NeoTeak](https://neoteak.cn) 又拯救回来了喵!
+[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn)
 
 ## 📈 最近规划
 
