@@ -48,6 +48,7 @@
     "astro": "7.2.0",
     "astro-expressive-code": "^0.44.1",
     "astro-icon": "^1.1.5",
+    "astro-indexnow": "^2.3.10",
     "ci-info": "^4.4.0",
     "dayjs": "^1.11.21",
     "ec-lang-logo": "^1.0.5",
